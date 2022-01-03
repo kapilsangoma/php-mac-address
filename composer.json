@@ -1,12 +1,12 @@
 {
-    "name": "blake-gardner/mac-address",
-    "description": "Get, validate and generate MAC addresses.",
+    "name": "kapilsangoma/mac-address",
+    "description": "Forked from blake-gardner/mac-address. Get, validate and generate MAC addresses.",
     "license": "MIT",
     "keywords": ["MAC", "Address", "IP", "ifconfig", "DHCP"],
     "authors": [
         {
-            "name": "Blake Gardner",
-            "email": "blakegardner@cox.net"
+            "name": "Kapil Gupta ",
+            "email": "kgupta@sangoma.com"
         }
     ],
     "require": {
